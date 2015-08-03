@@ -25,5 +25,8 @@
   "homepage": "https://github.com/SiCurious/es6-examples#readme",
   "devDependencies": {
     "eslint": "^1.0.0"
+  },
+  "dependencies": {
+    "thunkify": "^2.1.2"
   }
 }
