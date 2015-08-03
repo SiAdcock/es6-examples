@@ -1,0 +1,13 @@
+{
+  "env": {
+    "es6": true,
+    "node": true
+  },
+  "ecmaFeatures": {
+    "modules": true,
+    "generators": true
+  },
+  "rules": {
+    "quotes": [2, "single"]
+  }
+}

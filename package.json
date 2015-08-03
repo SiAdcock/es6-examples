@@ -1,0 +1,29 @@
+{
+  "name": "es6-examples",
+  "version": "0.0.1",
+  "description": "Cool JavaScript language features introduced with ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiCurious/es6-examples.git"
+  },
+  "keywords": [
+    "ES6",
+    "JavaScript",
+    "modules",
+    "generators",
+    "yield"
+  ],
+  "author": "Simon Adcock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SiCurious/es6-examples/issues"
+  },
+  "homepage": "https://github.com/SiCurious/es6-examples#readme",
+  "devDependencies": {
+    "eslint": "^1.0.0"
+  }
+}
